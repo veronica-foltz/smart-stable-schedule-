@@ -1,7 +1,7 @@
 🐴 Smart Stable Scheduler
 
 Constraint-aware scheduling tool with interactive Gantt visualization.  
-Built with HTML, CSS, JavaScript and deployed via GitHub Pages.
+Built with HTML, CSS, JavaScript and deployed via GitHub Pages. 
 
 Features
 - Greedy heuristic scheduling algorithm (skills, shifts, deadlines).
