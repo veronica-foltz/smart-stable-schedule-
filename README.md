@@ -1,4 +1,4 @@
-🐴 Smart Stable Scheduler
+** Smart Stable Scheduler **
 
 Constraint-aware scheduling tool with interactive Gantt visualization.  
 Built with HTML, CSS, JavaScript and deployed via GitHub Pages. 
